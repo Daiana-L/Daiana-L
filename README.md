@@ -10,10 +10,15 @@ Actualmente me encuentro desarrollando proyectos desafiantes para fortalecer mi 
 
 A continuación, te comparto algunos de los trabajos en los que he estado trabajando o que estoy desarrollando actualmente:
 
+---
+
 ### Aurora Studio - Solicita tu cita (Full Stack)  
 🔗 [Repositorio del proyecto](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita)
 
 Aplicación web donde los usuarios pueden registrarse, solicitar turnos y gestionar sus citas. Incluye integración con base de datos PostgreSQL y autenticación. Funciona con un backend propio en Node.js y un frontend moderno con react.
+![Vista animada del proyecto](https://github.com/Daiana-L/Daiana-L/blob/5e0af2abeb5a2d1dd71d4c3a0e5623aa06a22d6f/V%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp.gif
+)
+
 
 ---
 
