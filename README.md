@@ -1,6 +1,6 @@
-# 👩‍💻 Daiana Lopez - Desarrolladora Frontend
+# 👩‍💻 Hola, Soy Daiana!
 
-¡Hola! Soy Daiana, una desarrolladora frontend apasionada por crear web modernas, funcionales y visualmente atractivas. Me especializo en el desarrollo de interfaces dinámicas utilizando tecnologías como React, TypeScript, Next.js y estoy en constante formación para dominar nuevas herramientas.
+Soy una desarrolladora frontend apasionada por crear web modernas, funcionales y visualmente atractivas. Me especializo en el desarrollo de interfaces dinámicas utilizando tecnologías como React, TypeScript, Next.js y estoy en constante formación para dominar nuevas herramientas.
 
 Actualmente me encuentro desarrollando proyectos desafiantes para fortalecer mi portfolio y dar el siguiente paso en mi carrera profesional dentro del mundo del desarrollo web.
 
