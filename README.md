@@ -11,7 +11,7 @@ Actualmente me encuentro desarrollando proyectos desafiantes para fortalecer mi 
 A continuación, te comparto algunos de los trabajos en los que he estado trabajando o que estoy desarrollando actualmente:
 
 ### Hysteria3D Shop
-🔗 [Deploy en vercel](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita)
+🔗 [Deploy en vercel](https://hyteria-3d-shop.vercel.app/)
 
 Proyecto full stack que estoy desarrollando para mi emprendimiento personal de venta de productos impresos en 3D. La plataforma está en proceso de construcción y tiene como objetivo ofrecer una experiencia de compra moderna, rápida y segura.
 
