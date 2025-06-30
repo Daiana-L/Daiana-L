@@ -22,7 +22,7 @@ Backend: API integrada con base de datos PostgreSQL
 Deploy: Vercel
 
 Estado: 🧱 En desarrollo activo
-
+---
 ### Aurora Studio - Solicita tu cita (Full Stack)  
 🔗 [Repositorio del proyecto](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita)
 
