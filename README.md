@@ -13,7 +13,7 @@ A continuación, te comparto algunos de los trabajos en los que he estado trabaj
 ### Hysteria3D Shop
 🔗 [Deploy en vercel](https://hyteria-3d-shop.vercel.app/)
 
-⚠️ Aviso importante: El backend del proyecto se encuentra actualmente inactivo por motivos de costo (servicio suspendido temporalmente en Railway). Algunas funcionalidades dinámicas no estarán disponibles hasta que se reactive.
+⚠️ Aviso importante: El backend del proyecto se encuentra actualmente subido en Railway, este servicio suele ponerse en reposo si no hay actividad asi que puede haber fallos.
 
 Proyecto full stack que estoy desarrollando para mi emprendimiento personal de venta de productos impresos en 3D. La plataforma está en proceso de construcción y tiene como objetivo ofrecer una experiencia de compra moderna, rápida y segura.
 
