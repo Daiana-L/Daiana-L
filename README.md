@@ -1,99 +1,64 @@
-# 👩‍💻 Daiana Lopez - Desarrolladora Frontend
+# 👋 Hola, soy Daiana Celeste Lopez  
 
-¡Hola! Soy Daiana, una desarrolladora frontend apasionada por crear web modernas, funcionales y visualmente atractivas. Me especializo en el desarrollo de interfaces dinámicas utilizando tecnologías como React, TypeScript, Next.js y estoy en constante formación para dominar nuevas herramientas.
+💻 **Frontend Developer** | React · Next.js · Tailwind CSS  
+📍 Buenos Aires, Argentina  
 
-Actualmente me encuentro desarrollando proyectos desafiantes para fortalecer mi portfolio y dar el siguiente paso en mi carrera profesional dentro del mundo del desarrollo web.
-
----
-
-## Proyectos
-
-A continuación, te comparto algunos de los trabajos en los que he estado trabajando o que estoy desarrollando actualmente:
-
-### Hysteria3D Shop
-🔗 [Deploy en vercel](https://hyteria-3d-shop.vercel.app/)
-
-⚠️ Aviso importante: El backend del proyecto se encuentra actualmente subido en Render, este servicio suele ponerse en reposo si no hay actividad prolongada, asi que puede haber demoras en activarse o fallos.
-
-Proyecto full stack que estoy desarrollando para mi emprendimiento personal de venta de productos impresos en 3D. La plataforma está en proceso de construcción y tiene como objetivo ofrecer una experiencia de compra moderna, rápida y segura.
-
-Frontend: React, TypeScript, Next.js
-
-Backend: API integrada con base de datos PostgreSQL
-
-Deploy: Vercel
-
-Estado: 🧱 En desarrollo activo
+Soy una desarrolladora frontend apasionada por crear interfaces limpias, accesibles y escalables. Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales.  
 
 ---
 
-### Aurora Studio - Solicita tu cita (Full Stack)  
-🔗 [Repositorio del proyecto](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita)
+## 🚀 Stack Tecnológico
 
-Aplicación web donde los usuarios pueden registrarse, solicitar turnos y gestionar sus citas. Incluye integración con base de datos PostgreSQL y autenticación. Funciona con un backend propio en Node.js y un frontend moderno con react.
-
----
-
-## Tecnologías utilizadas - Proyecto Full Stack
-
-### Backend (API REST)
-
-- **Lenguaje:** TypeScript  
-- **Entorno:** Node.js  
-- **Framework:** Express.js  
-- **Base de datos:** PostgreSQL  
-- **ORM:** TypeORM  
-- **Middlewares personalizados:** Para validaciones y control de acceso  
-- **Arquitectura en capas:** Separación entre `routes`, `controllers`, `services`, `dto`, `entities`, `interfaces`, etc.  
-- **Gestión de dependencias:** npm
-
-###  Frontend
-
-- **Lenguaje:** JavaScript con JSX  
-- **Framework:** React  
-- **Build Tool:** Vite  
-- **Estilos:** CSS + Bootstrap  
-- **Estado global:** Context API
-
----
-### Sistema de Gestión de Películas
-🔗 [Repositorio del proyecto](https://github.com/Daiana-L/Sistema-de-gestion-de-peliculas)
-
-
-Aplicación web para administrar películas con una interfaz sencilla para agregar, ver y gestionar registros. La arquitectura está dividida en frontend y backend comunicados vía API.
+- **Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite  
+- **Backend:** Node.js, PostgreSQL, Firebase  
+- **Estado & Autenticación:** Zustand, Context API, JWT  
+- **Herramientas:** Git, GitHub, Vercel, Figma  
+- **Lenguajes:** JavaScript, TypeScript  
 
 ---
 
-## Tecnologías utilizadas
+## 🌟 Proyectos Destacados
 
-### Frontend
-
-- HTML, CSS y JavaScript clásico
-- Webpack para empaquetado  
-
-### Backend
-- Node.js con Express para el servidor HTTP  
-- MongoDB con Mongoose como base de datos y ORM  
-- CORS para permitir comunicación entre frontend y backend
+### 🎵 StudioConnect *(Proyecto grupal – Henry, 2025)*  
+Plataforma para conectar músicos con estudios de grabación.  
+- Rol: **Frontend Developer**  
+- Funcionalidades: diseño de interfaces en Figma, formularios de autenticación/registro, integración de geolocalización, dashboard de reservas, perfiles y estado global con Zustand.  
+🔗 [Repositorio](https://github.com/Daiana-L/StudioConnect) | [Demo](#)
 
 ---
 
-### Comunicación
-
-El frontend se conecta al backend mediante fetch/AJAX para consumir los endpoints REST expuestos, que interactúan con MongoDB.
-
----
-
----
-
-## ¡Contactame!
-
-Estoy abierta a oportunidades, colaboraciones o simplemente charlar sobre desarrollo web. Podés encontrarme por estos medios:
-
-- 📧 Email: [Daiana_Celeste_Lopez@outlook.com](mailto:Daiana_Celeste_Lopez@outlook.com)
-- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/daiana-celeste-lopez/)
+### 🛒 Hysteria3D Shop *(Proyecto Full Stack)*  
+E-commerce para productos 3D con React, Next.js y TypeScript.  
+- Backend en Node.js con PostgreSQL  
+- Autenticación con JWT y gestión de productos  
+- UI con Tailwind CSS y Flowbite  
+🔗 [Repositorio](https://github.com/Daiana-L/Hysteria3D-Shop) | [Demo](#)
 
 ---
 
-  Gracias por visitar mi README 💜
+### 📅 Aurora Studio – Solicita tu cita *(Proyecto Full Stack)*  
+App web para gestión de turnos y registro de usuarios.  
+- Frontend: React + Vite  
+- Backend: Node.js + PostgreSQL  
+- Autenticación y manejo de citas  
+🔗 [Repositorio](https://github.com/Daiana-L/Aurora-Studio) | [Demo](#)
 
+---
+
+## 📚 Educación
+
+- **Soy Henry – Bootcamp Full Stack Web Developer (2025)**  
+  800+ horas de programación intensiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM).  
+
+---
+
+## 🌐 Contacto
+
+- 📧 Email: **Daiana_Celeste_Lopez@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-celeste-lopez/)  
+- 🖥️ [Portfolio en construcción](#)  
+- 🐙 [GitHub](https://github.com/Daiana-L)  
+
+---
+
+✨ Gracias por visitar mi perfil. ¡Estoy abierta a nuevas oportunidades como Frontend Developer!
