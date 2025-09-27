@@ -23,7 +23,7 @@ Soy una desarrolladora frontend apasionada por crear **interfaces limpias, acces
 Plataforma para conectar músicos con estudios de grabación.  
 - Rol: **Frontend Developer**  
 - Funcionalidades: diseño de interfaces en Figma, formularios de autenticación/registro, integración de geolocalización, dashboard de reservas, perfiles y estado global con Zustand.  
-🔗 [Repositorio](https://github.com/Daiana-L/studioconnect_front) | [Demo](#)  
+🔗 [Repositorio](https://github.com/Daiana-L/studioconnect_front) | [Demo](https://www.youtube.com/watch?v=tRjDscwI334)  
 
 ---
 
