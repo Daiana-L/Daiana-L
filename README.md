@@ -23,7 +23,7 @@ Soy una desarrolladora frontend apasionada por crear interfaces limpias, accesib
 Plataforma para conectar músicos con estudios de grabación.  
 - Rol: **Frontend Developer**  
 - Funcionalidades: diseño de interfaces en Figma, formularios de autenticación/registro, integración de geolocalización, dashboard de reservas, perfiles y estado global con Zustand.  
-🔗 [Repositorio](https://github.com/Daiana-L/StudioConnect) | [Demo](#)
+🔗 [Repositorio](https://github.com/Daiana-L/studioconnect_front) | [Demo](#)
 
 ---
 
@@ -55,10 +55,7 @@ App web para gestión de turnos y registro de usuarios.
 ##  Contacto
 
 - 📧 Email: **Daiana_Celeste_Lopez@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-celeste-lopez/)  
-- 🖥️ [Portfolio en construcción](#)  
-- 🐙 [GitHub](https://github.com/Daiana-L)  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/daiana-celeste-lopez/)   
 ---
 
 ✨ Gracias por visitar mi perfil. ¡Estoy abierta a nuevas oportunidades como Frontend Developer!
