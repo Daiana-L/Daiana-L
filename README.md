@@ -1,13 +1,13 @@
-# 👋 Hola, soy Daiana Celeste Lopez  
+# Hola, soy Daiana Celeste Lopez  
 
 💻 **Frontend Developer** | React · Next.js · Tailwind CSS  
-📍 Buenos Aires, Argentina  
+🇦🇷 🧉 Buenos Aires, Argentina  
 
 Soy una desarrolladora frontend apasionada por crear interfaces limpias, accesibles y escalables. Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales.  
 
 ---
 
-## 🚀 Stack Tecnológico
+##  Stack Tecnológico
 
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, Flowbite  
 - **Backend:** Node.js, PostgreSQL, Firebase  
@@ -19,7 +19,7 @@ Soy una desarrolladora frontend apasionada por crear interfaces limpias, accesib
 
 ## 🌟 Proyectos Destacados
 
-### 🎵 StudioConnect *(Proyecto grupal – Henry, 2025)*  
+###  StudioConnect *(Proyecto grupal – Henry, 2025)*  
 Plataforma para conectar músicos con estudios de grabación.  
 - Rol: **Frontend Developer**  
 - Funcionalidades: diseño de interfaces en Figma, formularios de autenticación/registro, integración de geolocalización, dashboard de reservas, perfiles y estado global con Zustand.  
@@ -27,7 +27,7 @@ Plataforma para conectar músicos con estudios de grabación.
 
 ---
 
-### 🛒 Hysteria3D Shop *(Proyecto Full Stack)*  
+###  Hysteria3D Shop *(Proyecto Full Stack)*  
 E-commerce para productos 3D con React, Next.js y TypeScript.  
 - Backend en Node.js con PostgreSQL  
 - Autenticación con JWT y gestión de productos  
@@ -36,7 +36,7 @@ E-commerce para productos 3D con React, Next.js y TypeScript.
 
 ---
 
-### 📅 Aurora Studio – Solicita tu cita *(Proyecto Full Stack)*  
+###  Aurora Studio – Solicita tu cita *(Proyecto Full Stack)*  
 App web para gestión de turnos y registro de usuarios.  
 - Frontend: React + Vite  
 - Backend: Node.js + PostgreSQL  
@@ -45,14 +45,14 @@ App web para gestión de turnos y registro de usuarios.
 
 ---
 
-## 📚 Educación
+## Educación
 
 - **Soy Henry – Bootcamp Full Stack Web Developer (2025)**  
   800+ horas de programación intensiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM).  
 
 ---
 
-## 🌐 Contacto
+##  Contacto
 
 - 📧 Email: **Daiana_Celeste_Lopez@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daiana-celeste-lopez/)  
