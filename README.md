@@ -1,7 +1,7 @@
 # Hola, soy Daiana Celeste Lopez  
 
 💻 **Frontend Developer** | React · Next.js · Tailwind CSS  
-:flag_ar:  🧉 Buenos Aires, Argentina  
+  Buenos Aires, Argentina  
 
 Soy una desarrolladora frontend apasionada por crear interfaces limpias, accesibles y escalables. Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales.  
 
