@@ -1,4 +1,4 @@
-# Hola, soy Daiana Celeste Lopez 💻
+# Hola, soy Daiana Celeste Lopez!
 
 **Frontend Developer** | React · Next.js · Tailwind CSS  
 📍 Buenos Aires, Argentina  
