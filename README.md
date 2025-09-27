@@ -32,7 +32,7 @@ E-commerce para productos 3D con React, Next.js y TypeScript.
 - Backend en Node.js con PostgreSQL  
 - Autenticación con JWT y gestión de productos  
 - UI con Tailwind CSS y Flowbite  
-🔗 [Repositorio](https://github.com/Daiana-L/Hysteria3D-Shop) | [Demo](#)
+🔗 [Repositorio](https://github.com/Daiana-L/Hyteria-3D-Shop-Next.js) | [Demo](#)
 
 ---
 
@@ -41,7 +41,7 @@ App web para gestión de turnos y registro de usuarios.
 - Frontend: React + Vite  
 - Backend: Node.js + PostgreSQL  
 - Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/Daiana-L/Aurora-Studio) | [Demo](#)
+🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](#)
 
 ---
 
