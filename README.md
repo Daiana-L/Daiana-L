@@ -32,7 +32,7 @@ E-commerce para productos 3D con React, Next.js y TypeScript.
 - Backend en Node.js con PostgreSQL  
 - Autenticación con JWT y gestión de productos  
 - UI con Tailwind CSS y Flowbite  
-🔗 [Repositorio](https://github.com/Daiana-L/Hyteria-3D-Shop-Next.js) | [Demo](#)  
+🔗 [Repositorio](https://github.com/Daiana-L/Hyteria-3D-Shop-Next.js) | [Demo](https://www.youtube.com/watch?v=6ZB_oYsGi3s)  
 
 ---
 
