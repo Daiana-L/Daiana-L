@@ -18,7 +18,7 @@ Me destaco por mi organización, paciencia y la capacidad de mantener la calma a
 
 ---
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 ### StudioConnect *(Proyecto grupal – Henry, 2025)*
 Plataforma para conectar músicos con estudios de grabación.  
@@ -60,4 +60,4 @@ App web para gestión de turnos y registro de usuarios.
 
 ---
 
-✨ Gracias por visitar mi perfil. ¡Estoy abierta a nuevas oportunidades como Frontend Developer!
+Gracias por visitar mi perfil. ¡Estoy abierta a nuevas oportunidades como Frontend Developer!
