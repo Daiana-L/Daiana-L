@@ -41,7 +41,7 @@ App web para gestión de turnos y registro de usuarios.
 - Frontend: React + Vite  
 - Backend: Node.js + PostgreSQL  
 - Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](#)  
+🔗 [Repositorio](https://github.com/Daiana-L/AuroraStudio---Solicita-tu-cita) | [Demo](https://www.youtube.com/watch?v=XJMVlnWBzQQ)  
 
 ---
 
