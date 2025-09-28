@@ -3,7 +3,7 @@
 **Frontend Developer** | React · Next.js · Tailwind CSS  
 📍 Buenos Aires, Argentina  
 
-Soy una desarrolladora frontend apasionada por crear **interfaces limpias, accesibles y escalables**. Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales.  
+Soy Desarrolladora Frontend especializada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (MySQL, MongoDB), integración de APIs REST y optimización de interfaces responsivasMe destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales!
 
 ---
 
