@@ -6,7 +6,7 @@
 Soy Desarrolladora Frontend Junior enfocada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (MySQL, MongoDB), integración de APIs REST y optimización de interfaces responsivas. 
 Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales!
 
-📄 [Descargar mi CV (Currículum Vitae- Frontend developer)](https://github.com/user-attachments/files/22587463/Daiana-Lopez-CV.pdf)
+📄 [Descargar mi CV (Currículum Vitae- Frontend developer)](https://github.com/user-attachments/files/22587661/Daiana-Lopez-.Desarrolladora-Frontend.pdf)
 
 ---
 
