@@ -1,6 +1,6 @@
 # Hola, soy Daiana Celeste Lopez!
 
-**Frontend Developer** | React · Next.js · Tailwind CSS  
+**Frontend Developer** | React · Next.js · TypeScript  
 📍 Buenos Aires, Argentina  
 
 Soy Desarrolladora Frontend Junior especializada en React, Next.js, TypeScript y TailwindCSS, con experiencia en bases de datos (MySQL, MongoDB), integración de APIs REST y optimización de interfaces responsivas. 
